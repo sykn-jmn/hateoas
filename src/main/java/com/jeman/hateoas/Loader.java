@@ -29,7 +29,7 @@ public class Loader implements CommandLineRunner {
     public void run(String... args) throws Exception {
         Random rand = new Random();
         List<User> users = new ArrayList<>();
-        users.add(new User("Jeman Mama"));
+        users.add(new User("Jeman Papa"));
         users.add(new User("Jejemon Pikachu"));
         users.add(new User("Charizard Marawi"));
         users.add(new User("Diglet Raichu"));
